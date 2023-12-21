@@ -24,9 +24,8 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=delciocapolo.delciocapolo&"  />
 </div>
 
-###
-
-<h1 align="center">Welcome 👋</h1>
+<h4 align="center">Software Engineer | Open source enthusiast | Daydreamer | 🐧🏳</h4>
+<h1 align="center"></h1>
 
 ###
 
@@ -60,7 +59,9 @@
 
 </details>
 
----
+<h1></h1>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
