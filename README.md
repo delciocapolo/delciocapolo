@@ -26,14 +26,17 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Welcome 👋</h1>
 
 ###
 
-<h3 align="left">👨‍💻 About Me</h3>
-
+<details closed>
+  <summary>
+    <h3>👨‍💻 About Me</h3>
+  </summary>
+  
+  
 ###
-
 <p align="left">I am a programming enthusiast with experience in different languages and areas, always looking to explore and understand the potential of each one. My journey as a Backend developer led me to work with various technologies and learn about how they work, under the hood, their pros and cons, management (state, memory...).</p>
 
 ###
@@ -55,7 +58,9 @@
 - Ability to collaborate in cross-functional and multidisciplinary teams.
 - Commitment to delivering high quality solutions.
 
-###
+</details>
+
+---
 
 <h3 align="left">🛠 Language and tools</h3>
 
