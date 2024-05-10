@@ -24,7 +24,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=delciocapolo.delciocapolo&"  />
 </div>
 
-<h4 align="center">Software Engineer | Open source enthusiast | Daydreamer | 🐧🏳</h4>
+<h4 align="center">Software Developer | Open source enthusiast | Daydreamer | 🐧🏳</h4>
 <h1 align="center"></h1>
 
 ###
