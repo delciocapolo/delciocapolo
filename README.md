@@ -46,7 +46,7 @@
 
 - Backend development with multiple languages.
 - Building robust APIs and systems.
-- Implementation of machine learning solutions using Python.
+<!-- - Implementation of machine learning solutions using Python. -->
 
 ###
 
