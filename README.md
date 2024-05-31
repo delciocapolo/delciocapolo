@@ -48,7 +48,7 @@
 - Building robust APIs and systems.
 <!-- - Implementation of machine learning solutions using Python. -->
 
-###
+<!--###
 
 <h4 align="left">🚀 What i can offer</h4>
 
@@ -59,7 +59,7 @@
 
 </details>
 
-<h1></h1>
+<h1></h1>-->
 
 ###
 
