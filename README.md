@@ -56,10 +56,10 @@
 - Flexibility to work with different technologies and adapt to new environments.
 - Ability to collaborate in cross-functional and multidisciplinary teams.
 - Commitment to delivering high quality solutions.
-
+-->
 </details>
 
-<h1></h1>-->
+<h1></h1>
 
 ###
 
