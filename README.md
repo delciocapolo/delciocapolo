@@ -16,7 +16,7 @@
   <h4 align="center">Software Developer | Open source enthusiast | Daydreamer | 🐧🏳</h4>
   <br />
   <div>
-    <p align="left">I am a programming enthusiast with experience in different languages and areas, always looking to explore and understand the potential of each one. My journey as a Backend developer led me to work with various technologies and       learn about how they work, under the hood, their pros and cons, management (state, memory...).</p>
+    <p align="left">Com mais de 1 ano de experiência, construo aplicações web eficazes utilizando um vasto ecossistema de tecnologias, incluindo JavaScript (React, AdonisJS, NestJS), PHP (Laravel, WordPress), e ferramentas como RabbitMQ e Socket.IO. Minha essência está em criar código de fácil manutenção, com uma base sólida em qualidade e boas práticas. Adoro explorar a fundo cada tecnologia para garantir a melhor aplicação e gerar impactos reais.</p>
   </div>
   <div>
     <h3 align="left">🛠 Current language and tools</h3>
