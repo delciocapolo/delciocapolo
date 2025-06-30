@@ -21,8 +21,8 @@
   <div>
     <h3 align="left">🛠 Current language and tools</h3>
     <div align="center">
-      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
-      <img width="17" /> -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="35" alt="docker logo"  />
+      <img width="17" />
       <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
       <img width="17" /> -->
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
